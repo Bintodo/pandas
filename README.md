@@ -2,7 +2,7 @@
 根据《利用Python进行数据分析》一书
 
 > 作者：周振宇  
-> 邮件：blue_liberty@163.com
+> 邮箱：blue_liberty@163.com
 
 ## 目录
 + [第4章 NumPy基础：数组和矢量计算](http://nbviewer.jupyter.org/github/blueliberty/pandas/blob/master/ch04.NumPy%20Basics.ipynb)
